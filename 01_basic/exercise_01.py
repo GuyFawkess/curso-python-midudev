@@ -2,6 +2,8 @@
 # exercises.py
 # Ejercicios para practicar los conceptos aprendidos en las lecciones.
 ###
+from os import system
+if system("cls") != 0: system("clear")
 
 
 print("\nEjercicio 1: Imprimir mensajes")
